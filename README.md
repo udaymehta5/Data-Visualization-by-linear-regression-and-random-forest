@@ -1,1 +1,1 @@
-# Data-Visualization-by-linear-regression-and-random-forest-regression-algo
+# Data-Visualization-by-linear-regression-and-random-forest-regression-algorithm
